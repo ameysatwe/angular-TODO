@@ -2,4 +2,4 @@
 
 A to do list web application developed using Angular JS.
 
-[](./ui.png)
+[](ui.png)
