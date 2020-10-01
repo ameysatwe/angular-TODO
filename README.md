@@ -2,4 +2,4 @@
 
 A to do list web application developed using Angular JS.
 
-[](ui.png)
+[](https://github.com/therrshan/angular-TODO/blob/gh-pages/ui.png)
